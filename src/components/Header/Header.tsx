@@ -35,7 +35,7 @@ const Header = () => {
           <MenuIcon />
         </IconButton>
         <Typography variant="h6" className={classes.title}>
-          HomeApp
+          TaskNotifier
         </Typography>
         <Button color="inherit">Login</Button>
       </Toolbar>
